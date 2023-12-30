@@ -1,5 +1,5 @@
 ### Hi I'm Leonardo 👋
-I'm currently a programming student at Tecmilenio.
+I'm currently a programming student at Tecmilenio. \n
 I love watches, rc cars and reading.
 
 Pronouns: He or Leonardo 😄.
