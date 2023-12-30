@@ -1,5 +1,8 @@
-### Hi there 👋
-Let's see what I can do with this file
+### Hi I'm Leonardo 👋
+I'm currently a programming student at Tecmilenio.
+I love watches, rc cars and reading.
+
+Pronouns: He or Leonardo 😄.
 
 <!--
 **Leon-Supr/Leon-Supr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
