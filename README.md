@@ -1,3 +1,3 @@
-I'm currently a programming student at Tecmilenio.
-Pronouns: He or Leonardo.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon-Supr&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=Leon-Supr&show_icons=true&theme=ayu-mirage&bg_color=00000000&hide_border=true" />
+</p>
